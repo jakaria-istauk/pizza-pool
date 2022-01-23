@@ -1,0 +1,15 @@
+{
+    "name": "Jakaria/Pizza_Pool",
+    "authors": [
+        {
+            "name": "Jakaria",
+            "email": "jakariamd35@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jakaria\\Pizza_Pool\\" : "classes/"
+        },
+        "files": [ "functions/functions.php" ]
+    }
+}
